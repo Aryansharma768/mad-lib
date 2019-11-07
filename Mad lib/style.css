@@ -1,0 +1,35 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: coral;
+
+}
+
+.main{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 100px;
+    font-family:cursive;
+}
+h1{
+    color: coral;
+    font-size:45px;
+    
+}
+.btn1{
+    text-align: left;
+    white-space: pre;
+}
+
+.btn2{
+    background-color: coral;
+    padding: 5px;
+    font-size:20px;
+
+}
+.btn4{
+    border:dotted;
+    padding: 15px;
+    
+}
